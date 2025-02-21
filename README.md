@@ -1,5 +1,5 @@
-## Hi there 👋 I am Anirudh Purohit
-- 🔭 I’m currently working on building my portfolio
+## Hi there 👋 I am Anirudh Purohit, a Front-End Devloper based in Noida.
+- 🌱 I’m currently learning typescript & ReactJs
 <!--
 **AnirudhPurohit2001/AnirudhPurohit2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
